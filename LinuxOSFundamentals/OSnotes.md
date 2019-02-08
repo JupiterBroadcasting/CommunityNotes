@@ -2,7 +2,7 @@
 
 ## Introduction
 
-- Connect with [Ell](https://twitter.com/Ell_o_Punk) and [Kenny](https://www.linkedin.com/in/kenneth-armstrong-70a7bb143/)
+- Connect with [Ell](https://twitter.com/Ell_o_Punk) and [Kenny](https://www.twitter.com/KennysToaster)
   
 - Free Linux Academy [community account](https://linuxacademy.com/join/community)
   - Take  [Linux Operating System Fundamentals](https://linuxacademy.com/linux/training/course/name/linux-operating-system-fundamentals) for free

@@ -84,20 +84,3 @@ We are one of the most social econimic seperated cities in the US. Transportatio
 p16 badging system that reflects the understanding of a skill pushing to have us focus on the same skills from soft to hard skills. The idea of gamification to help people know where their strengths are. How do you bring in the concepts of "strenghts" in to elmentry schools? 
 
 
-## Work life balance
-
-Kerrie Eppinger RBFCU cyber security  - look for flexibility with the oppertunity to work remote. 
-**Technolgies that allow for work life balance** Using your phone both a curse and a blessing
-**So when do you put it down, when you step away**
-**How did you get to your role**
-
-Lou Ann Sedbrook RBFCU-  
-
-
-Aleathia Dizon- Accenture Federal Services - 
-
-
-
-
-## Random error notes 
-WARNING: CPU: 3 PID: 5914 at drivers/net/wireless/ath/ath10k/mac.c:5650 ath10k_bss_info_changed+0xe8e/0xfd0 [ath10k_core] [ath10k_core]

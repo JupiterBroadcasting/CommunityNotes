@@ -17,7 +17,29 @@ yum install https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.r
 
 ## Install
 
+### Via DNF or YUM
+
 ` sudo yum install ansible` 
+
+or 
+
+` sudo dnf install ansible`
+
+### Latest via Apt 
+
+```
+$ sudo apt-get update
+$ sudo apt-get install software-properties-common
+$ sudo apt-add-repository --yes --update ppa:ansible/ansible
+$ sudo apt-get install ansible
+```
+
+Note: On older Ubuntu distributions, “software-properties-common” is called “python-software-properties”.
+
+### Install Documentation 
+
+https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html
+
 
 ## Git install
 

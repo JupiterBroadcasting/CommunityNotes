@@ -17,7 +17,7 @@ Before understanding IOCs you will need to understand the baseline of your syste
 * Suspicious registry or system file changes. 
 * Unusual DNS requests most command and control malware masks its self as DNS request, so if you see large numbers of these request this might warrant more investigation.
 * Unexpectedly patched - some attackers will patch a system to ensure they are the only one who has access to this system. If other attackers are able to access it this lowers the profit they can make on your information.
-* Bybdkes if data in the wrong place(s) - if you start seeing data from an isolated server on one with outbound access.
+* Bundles of data in the wrong place(s) - if you start seeing data from an isolated server on one with outbound access.
 * Web traffic with non-human behavior, for example, large calls to one or more multiple IPs in nanoseconds.
 * Signs of DDos Attempts, even if it's temporary.
 

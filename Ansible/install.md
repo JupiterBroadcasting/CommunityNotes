@@ -36,6 +36,18 @@ $ sudo apt-get install ansible
 
 Note: On older Ubuntu distributions, “software-properties-common” is called “python-software-properties”.
 
+### Install via Python Pip (cross distribution installation method)
+
+Install pip (available in most package managers as pip or python-pip)
+
+https://pip.pypa.io/en/stable/installing/ 
+
+Install ansible via pip
+
+```
+$ pip install --user ansible
+```
+
 ### Install Documentation 
 
 https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html
@@ -49,7 +61,10 @@ It is advisable also to install source control. Although this is not required it
 
 ## Config file
 
-/etc/ansible/ansible.cfg is the primary Ansible configuration file.
+/etc/ansible/ansible.cfg is the primary Ansible configuration file. 
 
 /etc/ansible/hosts is the default Ansible inventory file.
+
+You can also override these settings by placing ansible.cfg in your home directory, see here for the full list of locations:
+https://docs.ansible.com/ansible/latest/reference_appendices/config.html#ansible-configuration-settings-locations
 

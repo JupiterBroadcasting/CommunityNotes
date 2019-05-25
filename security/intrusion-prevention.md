@@ -43,3 +43,9 @@ Traffic collector - sometimes referred to as a **sensor** it captures activities
 Signature Database - a collection of known patterns and definitions of malicious activity. An IDS/IPS should receive periodic updates to this data ase as new attack patterns are identified regularly. 
 
 Analysis engine- analysis engine is the component responsible for examining traffic and comparing that against the signature database to find malicious behaviors if presents 
+
+## tools: 
+- Anti virus software 
+- File Integrity Check (Windows SFC)
+- Host Based firewalls 
+    - Application whitelist 

@@ -1,4 +1,4 @@
-# Mobile, Audio and Cideo 
+# Mobile, Audio and Video 
 
 - **COPE** - Corporate owned, personally enabled. The company will buy but it can be used as a personal device. The organization keeps control of the device 
 

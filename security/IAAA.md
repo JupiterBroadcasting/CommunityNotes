@@ -5,6 +5,7 @@ Identification, Authentication, Authorization, and Accounting (AAA)
 - ***Identification***  is the process of assigning a unique name to a user or system that gives us tha ability to identify that user or system
 
 - ***Authentication***  is the process of verifying that identity
+Context-aware authentication - combine multiple contexts 
     - What you are (biometrics)
     - What you have (tokens)
     - What you know (passwords, security questions)

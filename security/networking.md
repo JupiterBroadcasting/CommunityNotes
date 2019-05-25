@@ -33,4 +33,14 @@ You don't get access unless you authenticate to a physical interface.
 - Active/ passive load balancing means some servers are active while others are on standby working as fault tolerance 
 
 
+## Demilitarized Zone (DMZ) 
 
+Exist between the internet and trusted internal network. Has firewalls on both sides, from both the external and internal zone. The idea is to force outsiders to make at least one hop into the DMZ before they can access the internal network. 
+	- Servers that should be in the DMZ are any servers that external entities can supply information to and retrieve information from (web servers, ftp servers) Rat servers that can force authentication into the trusted internal network, 
+
+- Network Segregation is used to control access to resources. 
+	- physical segregation refers to separate hardware and cabling.
+
+- Logical segregation refers to dividing a network into subnets based on functionality, using firewalls or routers to separate and facilitate communication between the logical networks.
+
+- Virtualization provides logical server isolation while still allowing physical hosting. 

@@ -53,3 +53,8 @@ It is advisable also to install source control. Although this is not required it
 
 /etc/ansible/hosts is the default Ansible inventory file.
 
+Ansible also looks `ansible.cfg` from current directory before failing back to the default one. Inventory file, as well as many other settings, can be defined inside the config file and kept easily in git repo so that any changes are easily tracked.
+
+Documentation of all the configuration file settins can be found from:
+
+https://ansible-manual.readthedocs.io/en/latest/intro_configuration.html

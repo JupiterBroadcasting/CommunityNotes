@@ -95,12 +95,12 @@ https://kubernetes.io/docs/tasks/debug-application-cluster/audit/
 
 
 ## Closing:
-* Previous Study groups
+### Previous Study groups
  - [History of Linux](https://youtu.be/qJ1CrzLS7Ak)    
  - [Ansible](https://youtu.be/0WfYpWl01VQ)
  - [Command Line Threat Hunting](https://youtu.be/jy9SAUHEWdU) 
 
-* Other Helpful Links: 
+### Other Helpful Links: 
  - [Feedback form](https://forms.gle/oXAa1VYjsJJBsZD78)    
  - [Free k8s course](https://linuxacademy.com/blog/linux-academy/freemay2019/)    
  - [Harts twitter](@hhover)

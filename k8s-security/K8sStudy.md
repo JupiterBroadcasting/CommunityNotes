@@ -45,7 +45,7 @@ RBAC relies on a series of well defined and standard concepts that are commonly 
 * Assignments – Role assignment grants a subject right to execute a transaction by  assigning to the subject an active role    
 
 ### Kubernetes has Role and Cluster Roles
-[Using RBAC Authorizaiton](https://kubernetes.io/docs/reference/access-authn-authz/rbac/)
+[Using RBAC Authorization](https://kubernetes.io/docs/reference/access-authn-authz/rbac/)
 
 [Authorization Overview](https://kubernetes.io/docs/reference/access-authn-authz/authorization/)
 

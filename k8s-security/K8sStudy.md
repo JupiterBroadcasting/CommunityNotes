@@ -103,4 +103,7 @@ https://kubernetes.io/docs/tasks/debug-application-cluster/audit/
 ### Other Helpful Links: 
  - [Feedback form](https://forms.gle/oXAa1VYjsJJBsZD78)    
  - [Free k8s course](https://linuxacademy.com/blog/linux-academy/freemay2019/)    
- - [Harts twitter](@hhover)
+ - [Hart's twitter](@hhover)
+ 
+### Next Study group: 
+ - [Back to Basics: Linux Permissions 101](https://www.meetup.com/jupiterbroadcasting/events/261837591/) 

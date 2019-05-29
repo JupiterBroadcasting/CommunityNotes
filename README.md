@@ -8,7 +8,7 @@ Centralized location to share study group notes.
 * **February**- [Yaml Essentials](https://github.com/JupiterBroadcasting/CommunityNotes/tree/master/yaml_essentials) 
 * **March**- [Linux OS Fundamentals](https://github.com/JupiterBroadcasting/CommunityNotes/tree/master/LinuxOSFundamentals)
 * **April**- [Ansible](https://github.com/JupiterBroadcasting/CommunityNotes/tree/master/Ansible)
-
+* **May** - [Kubernetes](https://github.com/JupiterBroadcasting/CommunityNotes/tree/master/k8s-security)
 ## Planning 
 
 - [In-Person Events](https://github.com/JupiterBroadcasting/CommunityNotes/tree/master/in_person_events) 

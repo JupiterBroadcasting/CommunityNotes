@@ -51,3 +51,7 @@ Keep the lines of communication honest.
 Keep the lines of communication open.
 
 ## Burn out is not the end
+
+## Burnout stories
+
+LinuxJedi's Story: https://linuxjedi.co.uk/2019/05/27/episode-1-depression-and-burnout/

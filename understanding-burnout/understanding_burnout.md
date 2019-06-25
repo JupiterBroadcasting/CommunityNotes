@@ -52,6 +52,12 @@ Keep the lines of communication open.
 
 ## Burn out is not the end
 
-## Burnout stories
+### Burnout stories
 
 LinuxJedi's Story: https://linuxjedi.co.uk/2019/05/27/episode-1-depression-and-burnout/
+
+### Resources 
+[Take this](https://www.takethis.org/)
+[Mental Health Hackers](https://www.mentalhealthhackers.org/)
+[Open Sourcing Mental Illness](https://osmihelp.org/)
+

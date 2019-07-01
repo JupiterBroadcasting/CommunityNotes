@@ -10,3 +10,5 @@ Please note this schedule is tentative. Although we will do our best to keep to 
 * September 11
 * September 25
 
+## Time
+Time: 11:00am PDT/ 1:00pm CDT/6:00pm UTC

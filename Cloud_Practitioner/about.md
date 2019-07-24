@@ -16,10 +16,9 @@ According to AWS this exam enables individuals with an overall understanding of 
 
 ## Document Order
 
-- about.md - the document you are reading now 
-- about.md - the document you are reading now 
-- amiready.md - Wanting to jump right in to the study group but not sure you are ready. Go through this document and make sure you know AWS basic concepts. Still unsure take an hour out of your day and watch [AWS Concepts at Linux Academy.](https://linuxacademy.com/cp/modules/view/id/84?)
-- schedule.md - Want to know when the next study group meeting will be check here! 
-- week1.md - General notes for week 1. Please clone and contribute! 
+- [about.md](https://github.com/JupiterBroadcasting/CommunityNotes/blob/master/Cloud_Practitioner/about.md) - the document you are reading now 
+- [amiready.md](https://github.com/JupiterBroadcasting/CommunityNotes/blob/master/Cloud_Practitioner/amiready.md)- Wanting to jump right in to the study group but not sure you are ready. Go through this document and make sure you know AWS basic concepts. Still unsure take an hour out of your day and watch [AWS Concepts at Linux Academy.](https://linuxacademy.com/cp/modules/view/id/84?)
+- [schedule.md](https://github.com/JupiterBroadcasting/CommunityNotes/blob/master/Cloud_Practitioner/schedule.md)- Want to know when the next study group meeting will be check here! 
+- [week1.md](https://github.com/JupiterBroadcasting/CommunityNotes/blob/master/Cloud_Practitioner/week1.md) - General notes for week 1. Please clone and contribute! 
 
 

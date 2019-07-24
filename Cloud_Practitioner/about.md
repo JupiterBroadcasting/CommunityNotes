@@ -21,4 +21,6 @@ According to AWS this exam enables individuals with an overall understanding of 
 - [schedule.md](https://github.com/JupiterBroadcasting/CommunityNotes/blob/master/Cloud_Practitioner/schedule.md)- Want to know when the next study group meeting will be check here! 
 - [week1.md](https://github.com/JupiterBroadcasting/CommunityNotes/blob/master/Cloud_Practitioner/week1.md) - General notes for week 1. Please clone and contribute! 
 
+## Helpful links
+- [Project Omega 2](https://interactive.linuxacademy.com/diagrams/ProjectOmega2.html)
 

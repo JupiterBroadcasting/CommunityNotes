@@ -13,3 +13,13 @@ So sign up for this study group, grab a cold drink, and we’ll have some fun!
 [AWS Cloud Practitioner](https://aws.amazon.com/training/path-cloudpractitioner/)
 
 According to AWS this exam enables individuals with an overall understanding of the AWS Cloud to validate their knowledge with an industry-recognized credential. This exam covers four domains, including: cloud concepts, security, technology, and billing and pricing. 
+
+## Document Order
+
+- about.md - the document you are reading now 
+- about.md - the document you are reading now 
+- amiready.md - Wanting to jump right in to the study group but not sure you are ready. Go through this document and make sure you know AWS basic concepts. Still unsure take an hour out of your day and watch [AWS Concepts at Linux Academy.](https://linuxacademy.com/cp/modules/view/id/84?)
+- schedule.md - Want to know when the next study group meeting will be check here! 
+- week1.md - General notes for week 1. Please clone and contribute! 
+
+

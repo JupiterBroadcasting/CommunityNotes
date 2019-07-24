@@ -4,8 +4,8 @@ Please note this schedule is tentative. Although we will do our best to keep to 
 
 ## Dates
 
-* **Kick off Meeting** - July 31st 5pm CDT 
-* **Getting Started with AWS** - August 14
+* [**Kick off Meeting**](https://www.meetup.com/jupiterbroadcasting/events/262584571/) - July 31st 5pm CDT 
+* [**Getting Started with AWS**](https://www.meetup.com/jupiterbroadcasting/events/263214097/) - August 14 
 * August 28th
 * September 11
 * September 25

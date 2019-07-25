@@ -13,6 +13,13 @@ So sign up for this study group, grab a cold drink, and we’ll have some fun!
 [AWS Cloud Practitioner](https://aws.amazon.com/training/path-cloudpractitioner/)
 
 According to AWS this exam enables individuals with an overall understanding of the AWS Cloud to validate their knowledge with an industry-recognized credential. This exam covers four domains, including: cloud concepts, security, technology, and billing and pricing. 
+  - Exam format: Multiple choice, multiple answer (90 min) 
+  - Exam cost: $100 USD 
+  - Exam Language: Available in English, Japanese, Korean, and Simplified Chinese
+  
+ ## Schedule exam
+ 
+ - https://www.aws.training/certification?src=practitioner
 
 ## Document Order
 

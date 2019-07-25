@@ -12,10 +12,37 @@ So sign up for this study group, grab a cold drink, and we’ll have some fun!
 
 [AWS Cloud Practitioner](https://aws.amazon.com/training/path-cloudpractitioner/)
 
-According to AWS this exam enables individuals with an overall understanding of the AWS Cloud to validate their knowledge with an industry-recognized credential. This exam covers four domains, including: cloud concepts, security, technology, and billing and pricing. 
-  - Exam format: Multiple choice, multiple answer (90 min) 
-  - Exam cost: $100 USD 
-  - Exam Language: Available in English, Japanese, Korean, and Simplified Chinese
+- Exam format: Multiple choice, multiple answer (90 min) 
+- Exam cost: $100 USD 
+- Exam Language: Available in English, Japanese, Korean, and Simplified Chinese
+  
+According to AWS this exam enables individuals with an overall understanding of the AWS Cloud to validate their knowledge with an industry-recognized credential. This exam covers four domains, including:
+
+- Domain 1: Cloud Concepts
+  - 1.1 Define the AWS Cloud and its value proposition
+  - 1.2 Identify aspects of AWS Cloud economics
+  - 1.3 List the different cloud architecture design principles
+
+- Domain 2: Security
+  - 2.1 Define the AWS Shared Responsibility model
+  - 2.2 Define AWS Cloud security and compliance concepts
+  - 2.3 Identify AWS access management capabilities
+  - 2.4 Identify resources for security support
+
+- Domain 3: Technology
+  - 3.1 Define methodsof deploying and operating in the AWS Cloud
+  - 3.2 Define the AWS global infrastructure
+  - 3.3 Identify the core AWS services
+  - 3.4 Identify resources for technology support
+  
+- Domain 4: Billing and Pricing
+  - 4.1 Compare and contrast the various pricing models for AWS
+  - 4.2 Recognize the various account structures in relation to AWS billing and pricing
+  - 4.3Identify resources available for billing support
+  
+  
+  
+  
   
  ## Schedule exam
  

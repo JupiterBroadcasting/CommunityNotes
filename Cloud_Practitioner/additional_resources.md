@@ -18,7 +18,7 @@
 
 ## Linux Academy Community Edition
 * [Community (Free) Edition signup](https://linuxacademy.com/join/community)
-* [Slack channel](https://linuxacademy-community-slack.herokuapp.com/) -> Join #study-group
+* [Slack channel](https://linuxacademy-community-slack.herokuapp.com/) -> Join #studygroup
 
 ## Is this the right certification for me? Which one should I get next?
 * [Blog post breakdown of AWS certifications](https://linuxacademy.com/blog/amazon-web-services-2/choosing-right-aws-certification/)
